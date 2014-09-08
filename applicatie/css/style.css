@@ -1,0 +1,105 @@
+body 
+{
+	background-color: black;
+}
+
+.container 
+{
+	background-color: white;
+	min-height: 800px;
+	width: 1200px;
+}
+
+.header
+{
+	display: block;
+
+}
+
+img
+{
+	margin-left: -15px;
+}
+
+.header-details
+{
+	margin-top: -290px;
+	color: white;
+	max-width: 440px;
+}
+
+
+.page-heading 
+{
+	font-size: 36px;
+	margin-left: 310px;
+	width: 460px;
+	position: relative;
+	margin-top: 300px;
+}
+
+.projects
+{
+	display: block;
+	height: 250px;
+	width: 400px;
+	float: right;
+	background-color: blue;
+}
+
+.login
+{
+	float: right;
+}
+
+.logout
+{
+	float: right;
+	margin-top: -65px;
+}
+
+
+.welcometext 
+{
+	margin-left: 333px;
+	margin-top: 40px;
+	font-family: Helvetica;
+	font-size: 16px;
+	color: black;
+}
+
+.form.col-md-4 
+{
+	margin-top: 150px;
+}
+
+.header-info 
+{
+	margin-top: -364px;
+}
+
+.admin-block-left 
+{
+	width: 300px;
+	height: 120px;
+	float: left;
+	display: block;
+	margin-top: -49px;
+	padding-left: 15px;
+}
+
+.userlogin
+{
+	margin-left: 12px;
+	color: white;
+}
+
+.project-table
+{
+	margin-top: 85px;
+}
+
+.form-control
+{
+	width: 45%;
+}
